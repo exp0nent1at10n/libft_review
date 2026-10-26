@@ -1,0 +1,6 @@
+*.o
+a.out
+*.s
+*.exe
+dump_*.txt
+strlen_demo
